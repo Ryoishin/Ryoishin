@@ -12,7 +12,7 @@ You can use the website to generate badges: https://shields.io/
 
 <p align="left"> <a href="https://github.com/Ryoishin"><img src="https://github-profile-trophy.vercel.app/?username=Ryoishin&no-bg=true" alt="Ryoishin" /></a> </p>
 
-<img width="42%" align="right" alt="Github" src="https://images.app.goo.gl/MwFoDiJyayoRpdSi7" />
+<img width="42%" align="right" alt="Github" src="wp7149700.jpg"/>
 
 - 👨🏽‍💻 I’m currently working on [TeamRyoishin](https://t.me/RyoishinSupport);
 - 🌱 I’m currently learning Python Pyrogram & Telethon; 
