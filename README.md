@@ -7,7 +7,7 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Ryoishin)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](Ryoishin: ryoishincoder@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](Ryoishin:ryoishincoder@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-0000FF?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ryoishin)
 
 <p align="left"> <a href="https://github.com/Ryoishin"><img src="https://github-profile-trophy.vercel.app/?username=Ryoishin&no-bg=true" alt="Ryoishin" /></a> </p>
