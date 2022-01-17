@@ -7,7 +7,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-0000FF?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ryoishin)
 
 
-
+# Commit 
 
 
 <p>
@@ -15,3 +15,6 @@
     <img width="55%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=Ryoishin&show_icons=true&hide_border=true" />
   </a>
 </p>
+
+# MOST USED LANGUAGES
+[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryoishin&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/Ryoishin)
