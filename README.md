@@ -7,6 +7,14 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-0000FF?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ryoishin)
 
 
+
+# MOST USED LANGUAGES
+[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryoishin&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/Ryoishin)
+
+
+
+
+
 # Commit 
 
 
@@ -16,5 +24,8 @@
   </a>
 </p>
 
-# MOST USED LANGUAGES
-[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryoishin&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/Ryoishin)
+
+
+
+
+
