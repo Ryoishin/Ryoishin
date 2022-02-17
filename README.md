@@ -1,4 +1,4 @@
-# Hey , I am Ryoishin  🇮🇳 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hey , I am Shivansh Raghuvanshi  🇮🇳 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
 * GitHub Profile
@@ -11,7 +11,7 @@
 
 
 # MOST USED LANGUAGES
-[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryoishin&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/Ryoishin)
+[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=TheShivansh&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/TheShivansh)
 
 
 
@@ -21,7 +21,7 @@
 
 
 <p>
-  <a href="https://github.com/Ryoishin/handle-path-oz">
+  <a href="https://github.com/TheShivansh/handle-path-oz">
     <img width="55%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=Ryoishin&show_icons=true&hide_border=true" />
   </a>
 </p>
