@@ -18,7 +18,7 @@
 
 <p>
   <a href="https://github.com/TheHackerCatX/handle-path-oz">
-    <img width="55%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=Ryoishin&show_icons=true&hide_border=true" />
+    <img width="55%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=TheHackerCatX&show_icons=true&hide_border=true" />
   </a>
 </p>
 
