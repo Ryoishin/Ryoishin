@@ -2,7 +2,7 @@
 
 ## Info
 
-Hi There, I'm Shivansh 🇮🇳, 17 Year Old Friendly Neighbourhood Programmer From India.
+Hi There, I'm Shivansh 🇮🇳, 18 Year Old Friendly Neighbourhood Programmer From India.
 
 - :computer: I'm currently working on a "secret" project.
 - :school: I'm currently learning : java
