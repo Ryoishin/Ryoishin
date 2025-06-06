@@ -2,7 +2,7 @@
 
 ## Info
 
-Hi There, I'm Shivansh 🇮🇳, 18 Year Old Friendly Neighbourhood Programmer From India.
+Hi There, I'm Shivansh 🇮🇳, 20 Year Old Friendly Neighbourhood Programmer From India.
 
 - :computer: I'm currently working on a "secret" project.
 - :school: I'm currently learning : java
@@ -17,9 +17,7 @@ Hi There, I'm Shivansh 🇮🇳, 18 Year Old Friendly Neighbourhood Programmer F
 ## Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GO](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 
 
