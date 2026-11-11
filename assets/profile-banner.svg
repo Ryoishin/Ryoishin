@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title description">
+  <title id="title">Shivansh Raghuvanshi — developer portfolio</title>
+  <desc id="description">A dark gradient banner with purple, blue, and cyan accents.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0b16" />
+      <stop offset="0.55" stop-color="#14102b" />
+      <stop offset="1" stop-color="#071827" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a78bfa" />
+      <stop offset="0.55" stop-color="#818cf8" />
+      <stop offset="1" stop-color="#22d3ee" />
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity="0.3" />
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#a78bfa" stroke-opacity="0.08" stroke-width="1" />
+    </pattern>
+  </defs>
+  <rect width="1280" height="360" rx="28" fill="url(#background)" />
+  <rect width="1280" height="360" rx="28" fill="url(#grid)" />
+  <ellipse cx="1060" cy="170" rx="360" ry="260" fill="url(#glow)" />
+  <circle cx="1095" cy="178" r="118" fill="none" stroke="#22d3ee" stroke-opacity="0.26" stroke-width="1.5" />
+  <circle cx="1095" cy="178" r="86" fill="none" stroke="#a78bfa" stroke-opacity="0.4" stroke-width="1.5" />
+  <circle cx="1095" cy="178" r="54" fill="none" stroke="url(#accent)" stroke-opacity="0.75" stroke-width="2" />
+  <circle cx="1095" cy="178" r="7" fill="#22d3ee" />
+  <path d="M980 178h-44m318 0h-44M1095 63v-32m0 294v-32" stroke="#a78bfa" stroke-opacity="0.55" stroke-width="1.5" />
+  <circle cx="936" cy="178" r="3" fill="#a78bfa" />
+  <circle cx="1254" cy="178" r="3" fill="#22d3ee" />
+  <circle cx="1095" cy="31" r="3" fill="#22d3ee" />
+  <circle cx="1095" cy="325" r="3" fill="#a78bfa" />
+  <rect x="76" y="69" width="4" height="222" rx="2" fill="url(#accent)" />
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="106" y="111" fill="#a5b4fc" font-size="15" font-weight="600" letter-spacing="4">DEVELOPER PORTFOLIO</text>
+    <text x="104" y="174" fill="#f8fafc" font-size="46" font-weight="700" letter-spacing="-1">Shivansh Raghuvanshi</text>
+    <text x="106" y="216" fill="#cbd5e1" font-size="20" font-weight="400">Building Intelligent Solutions Through Code,</text>
+    <text x="106" y="246" fill="#cbd5e1" font-size="20" font-weight="400">Creativity &amp; Technology.</text>
+    <rect x="106" y="270" width="344" height="32" rx="16" fill="#ffffff" fill-opacity="0.06" stroke="#a78bfa" stroke-opacity="0.35" />
+    <text x="124" y="291" fill="#c4b5fd" font-size="12" font-weight="600" letter-spacing="1.5">PYTHON  /  BACKEND  /  AI &amp; AUTOMATION</text>
+  </g>
+</svg>
