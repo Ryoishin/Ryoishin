@@ -98,18 +98,24 @@ Skills below are separated by evidence: the first group appears in my public pro
 ## 06. GITHUB STATISTICS
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ryoishin&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;theme=tokyonight" alt="GitHub profile statistics for Shivansh Raghuvanshi, including public repository and star metrics" />
+  <a href="https://github.com/Ryoishin">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ryoishin&amp;theme=tokyonight" alt="GitHub statistics summary for Ryoishin" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ryoishin&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight" alt="Most-used programming languages across public GitHub repositories" />
+  <a href="https://github.com/Ryoishin">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ryoishin&amp;theme=tokyonight" alt="Most-used languages by repository for Ryoishin" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ryoishin&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak statistics for Ryoishin" />
+  <a href="https://github.com/Ryoishin">
+    <img src="https://streak-stats.demolab.com?user=Ryoishin&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak statistics for Ryoishin" />
+  </a>
 </p>
 
-*These third-party cards use public GitHub activity and may be temporarily unavailable or delayed.*
+*Cards summarize public GitHub activity and can be delayed during service outages. If a card does not load, visit the [GitHub profile](https://github.com/Ryoishin) for the source data.*
 
 ## 07. CONTRIBUTION ACTIVITY
 
